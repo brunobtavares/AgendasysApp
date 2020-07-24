@@ -1,2 +1,2 @@
-git clone https://github.com/brunobtavares/AgendasysApp.git
+git pull https://github.com/brunobtavares/AgendasysApp.git
 exit
