@@ -1,0 +1,5 @@
+Update: 28/07/2020
+    * O valor total agora pode ser ajustado manualmente.
+    * O filtro do agendamento foi aprimorado.
+    * Adicionado TrayIcon
+    * Adicionado validação que impede duplicidade de processos.
