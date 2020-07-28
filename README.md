@@ -1,2 +1,2 @@
 # Agendasys
-Sistema de update do Agendasys
+Sistema de agendamentos

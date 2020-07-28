@@ -1,9 +1,21 @@
 @ECHO OFF
 
-rem Ping usado como sleep time
+:: Set UTF-8 enconding
+:: chcp 65001
+
+:: Mensagem
+ECHO +---------------------------------------+
+ECHO ^|                                       ^|
+ECHO ^| Fazendo update do Agendasys. Aguarde! ^|
+ECHO ^|                                       ^|
+ECHO +---------------------------------------+
+
+:: Ping usado como sleep time por 5seg
 ping 127.0.0.1 -n 6 > nul
 
-git pull https://github.com/brunobtavares/AgendasysApp.git
+:: Faz a requisição para atualizar
+git pull
 
+:: Inicia o systema após atualização
 start Agendasys.exe
 exit
