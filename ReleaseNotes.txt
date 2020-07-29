@@ -6,3 +6,8 @@ Update: 28/07/2020
 	
 Update: 29/07/2020
     * Ajustado a data de agendamento para manual
+	* Ajustado a data de retirada para manual
+	
+Update: 29/07/2020
+    * Ajustado Campos Recheio e Topper para manual
+	* Ao clicar na versão aparece a opção para atualizar
