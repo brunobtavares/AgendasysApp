@@ -14,10 +14,8 @@ ECHO +---------------------------------------+
 ping 127.0.0.1 -n 6 > nul
 
 :: Faz a requisição para atualizar
-git fetch
-git reset --hard
-git pull
+:: git pull
 
 :: Inicia o systema após atualização
-start Agendasys.exe
+:: start Agendasys.exe
 exit
