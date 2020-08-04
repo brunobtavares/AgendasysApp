@@ -11,3 +11,6 @@ Update: 29/07/2020
 Update: 29/07/2020
     * Ajustado Campos Recheio e Topper para manual
 	* Ao clicar na versão aparece a opção para atualizar
+
+Update: 04/08/2020
+    * Reajustes de api para nova versão
