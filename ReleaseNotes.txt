@@ -14,3 +14,6 @@ Update: 29/07/2020
 
 Update: 04/08/2020
     * Reajustes de api para nova versão
+	
+Update: 04/08/2020
+    * Reajustes na folha de impressão
