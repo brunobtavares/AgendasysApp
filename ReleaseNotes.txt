@@ -17,3 +17,6 @@ Update: 04/08/2020
 	
 Update: 04/08/2020
     * Reajustes na folha de impressão
+	
+Update: 13/08/2020
+    * Alterado a caixa de dialogo da folha de impressão
