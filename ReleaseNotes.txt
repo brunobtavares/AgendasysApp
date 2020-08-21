@@ -20,3 +20,6 @@ Update: 04/08/2020
 	
 Update: 13/08/2020
     * Alterado a caixa de dialogo da folha de impressão
+
+Update: 21/08/2020
+    * Ajuste no modo debug
