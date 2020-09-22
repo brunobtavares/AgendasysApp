@@ -23,3 +23,8 @@ Update: 13/08/2020
 
 Update: 21/08/2020
     * Ajuste no modo debug
+	
+Update: 22/09/2020
+    * Removido pré-cadastro de produtos/itens
+	* Habilitado campo para digitar os produtos/itens
+	* Removido campo do valor total
